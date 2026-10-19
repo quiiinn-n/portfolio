@@ -1,5 +1,3 @@
+remote_theme: pages-themes/cayman@v0.2.0
 title: ""
 description: ""
-remote_theme: pages-themes/primer@v0.2.0
-primer:
-  hide_title: true
